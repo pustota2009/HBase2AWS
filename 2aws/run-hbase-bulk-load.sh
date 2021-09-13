@@ -1,0 +1,1 @@
+nohup hadoop jar YCSB2HBaseBulkImport.jar usertable1000 /etc/hbase/conf/hbase-site.xml /tmp/inp10m /tmp/out0 4000 5950 4000 &
